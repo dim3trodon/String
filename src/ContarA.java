@@ -1,3 +1,9 @@
+/* Rodrigo Valladares Santana L1 
+ * Programación de Aplicaciones Interactivas Práctica 3
+ * 
+ * Clase que lee por teclado un texto y cuenta el número de caracteres a y A que se han introducido.
+ * 
+ * */
 import java.io.*;
 public class ContarA {
 	
